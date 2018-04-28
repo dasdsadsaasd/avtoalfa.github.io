@@ -9,10 +9,9 @@ body, html {
 h2 {
 	margin: 0 0 20px 0;
 	color: #555;
-	text-transform: uppercase;
 	letter-spacing: 1px;
 	font-weight: 400;
-	font-size: 30px;
+	font-size: 37px;
 }
 h3, h4 {
 	color: #222;
@@ -335,7 +334,10 @@ ol.type li a:hover {
 	padding: 5px;
 	color: #E87E04;
 }
-
+#partners td {
+padding-bottom: 5px;
+padding-right: 5px;
+}
 /* Contact Section */
 #contact {
 	padding: 120px 0 60px 0;
